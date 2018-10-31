@@ -25,4 +25,6 @@ python3.6 ../notes2cards.py --inputFile test_file.md \
 3. anki and genanki dependencies handled different
 4. proper project structure
 5. tests
-6. add other stuff as it comes up
+6. repository setup with auto-compilation
+	cloud version of note taking for remote instances
+7. add other stuff as it comes up
