@@ -1,5 +1,5 @@
 
-class NoteSection(object):
+class SimpleVocabCard(object):
 	"""
 	For a simple header, text section format
 	"""
