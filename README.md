@@ -20,8 +20,8 @@ python3.6 ../notes2cards.py --inputFile test_file.md \
 <img src="media/3_View_Card.png" width="250" height="196">
 
 ## ToDo
-1. parser - simple question + answer
-2. markdown tool - note taking with tufte style
+1. -parser, simple question + answer-
+2. markdown tool, note taking with tufte style
 3. anki and genanki dependencies handled different
 4. proper project structure
 5. tests
