@@ -15,9 +15,9 @@ python3.6 ../notes2cards.py --inputFile test_file.md \
 ```
 
 3. Import your newly created deck into Anki.
-![Step 1](media/1_Click_Import.png){:height="50%" width="50%"}
-![Step 2](media/2_Added_Deck.png){:height="50%" width="50%"}
-![Step 3](media/3_View_Card.png){:height="50%" width="50%"}
+![Step 1]<img src="media/1_Click_Import.png" width="100" height="100">
+![Step 2]<img src="media/2_Added_Deck.png" width="100" height="100">
+![Step 3]<img src="media/3_View_Card.png" width="100" height="100">
 
 ## ToDo
 1. parser - simple question + answer
