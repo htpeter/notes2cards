@@ -1,3 +1,5 @@
 decorator
 pyaudio
 cached_property
+pystache
+pyyaml
