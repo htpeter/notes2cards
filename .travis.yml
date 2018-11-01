@@ -1,5 +1,6 @@
   language: python
   python:
     - "3.6"
+  install: pip install decorator
   script:
     - sh ./test/test_notes2cards.sh
