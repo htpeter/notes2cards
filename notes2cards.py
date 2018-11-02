@@ -1,7 +1,6 @@
 import re
 import argparse
 import random
-
 import anki
 import genanki
 
@@ -12,9 +11,8 @@ def main(args):
     my_deck = genanki.Deck(
         deck_id=random.getrandbits(32),
         name=args.deckName)
-    # my_deck.add_model()
     # Open file and read
-    with open(args.inputFile, 'r') as f:
+    with open(args.inputFile, 'r', encoding='utf-8') as f:
         read_input_file = f.read()
         # Parse file for notes using smart logic
         list_of_notes = note_parse(raw_text=read_input_file)

@@ -5,4 +5,4 @@
     - sudo apt-get install portaudio19-dev
   install: python3.6 -m pip install -r requirements.txt
   script:
-    - sh ./test/test_notes2cards.sh
+    - python3.6 notes2cards.py --inputFile ./test/test_file.md --deckName Docker_Deck --outputFile ./test/docker_deck.apkg
