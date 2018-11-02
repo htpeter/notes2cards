@@ -1,4 +1,4 @@
-# notes2cards - version 0.1
+# notes2cards - version 0.2 [![Build Status](https://travis-ci.com/htpeter/notes2cards.svg?branch=master)](https://travis-ci.com/htpeter/notes2cards)
 A simple note taking application that can be transform notes to an Anki deck!
 
 # How To Currently Use
