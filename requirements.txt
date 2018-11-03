@@ -3,3 +3,4 @@ pyaudio
 cached_property
 pystache
 pyyaml
+pylatex
